@@ -23,4 +23,4 @@ Usa Mathf.Sin(Time.time * scaleFrequency) para generar un factor oscilante.
 Ajusta la escala relativa a la original con transform.localScale = originalScale * (1 + scaleAmplitude * sin(...)).
 
 ## Preview
-[animacion](GIF.gif)
+![animacion](GIF.gif)
