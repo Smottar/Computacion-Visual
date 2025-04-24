@@ -13,4 +13,4 @@ Este sketch en Processing muestra una figura geométrica (una elipse) que se mue
 💨 Movimiento suave: gracias a las funciones trigonométricas.
 
 ## Preview
-[animacion](GIF.gif)
+![animacion](GIF.gif)
