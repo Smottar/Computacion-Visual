@@ -24,7 +24,7 @@ Este proyecto se enfoca en la aplicación de técnicas de procesamiento de imág
 
 A continuación se presenta el GIF generados durante el proceso:
 
-   [Ver GIF](python/gifs/procesamiento_animal.gif)
+   ![Ver GIF](python/gifs/procesamiento_animal.gif)
 
 ### Explicación de los GIFs
 
@@ -81,3 +81,4 @@ Este proyecto funciona como una página web estática que utiliza Three.js y Orb
 3. Haz clic derecho sobre `index.html` y selecciona **“Open with Live Server”**.
 
 4. El navegador se abrirá automáticamente mostrando la escena lista para interactuar.
+
